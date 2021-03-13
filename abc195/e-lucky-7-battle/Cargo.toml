@@ -1,0 +1,6 @@
+[package]
+name = "e-lucky-7-battle"
+version = "0.1.0"
+authors = ["besshy"]
+
+[dependencies]

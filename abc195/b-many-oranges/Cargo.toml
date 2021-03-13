@@ -1,0 +1,6 @@
+[package]
+name = "b-many-oranges"
+version = "0.1.0"
+authors = ["besshy"]
+
+[dependencies]
